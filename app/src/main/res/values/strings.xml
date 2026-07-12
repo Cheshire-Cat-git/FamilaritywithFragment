@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Familarity with Fragment</string>
+    <string name="hello_fragment_2">Second Fragment</string>
+    <string name="hello_fragment_3">Third Fragment</string>
 </resources>
